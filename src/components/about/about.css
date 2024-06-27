@@ -1,0 +1,178 @@
+
+#about{
+   color: black;
+    margin-top: 0px;
+    
+}
+
+.about__container{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    width:100%;
+    min-height: 100vh;
+    padding-right: calc(10%-30px);
+}
+
+main.row{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 20px;
+}
+.col header{
+    height : auto;
+}
+.col header.title{
+    font-family: Helvetica;
+    color: #11a372;
+    padding: 0px 0px 20px 30px;
+}
+.col .contents{
+    padding: 0px 30px;
+    margin-left: 30px;
+    border-left:  2px solid #bababa;
+}
+
+.col .contents .box{
+    position: relative;
+    padding: 20px;
+    border: 1px solid #eaeaea;
+    background-color: #ffffff;
+    cursor: pointer;
+    transition: all 0.4s;
+    margin-bottom: 20px;
+}
+
+.col .contents .box:hover{
+    box-shadow: 0px 3px 12px 0px #ccc;
+    border: 1px solid transparent;
+}
+
+.col .contents .box::before{
+    content:'';
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    right: calc(100% + 22px);
+    top: 0;
+    background-color: #11a372;
+    border: 2px solid white;
+}
+
+.box h4{
+    position: relative;
+    color: #11a372;
+
+}
+
+.box h3{
+    font-size: 19px;
+    font-family: helvetica;
+    padding: 10px 0px 6px;
+    color: #444;
+}
+
+.box p{
+    line-height: 1.2;
+    color: #666;
+    font-size: 17px;
+}
+
+
+.about__description{
+
+    background: var(--color-bg-variant);
+    padding: 1.3rem;
+    border-radius: 2rem;
+    border: 1px solid transparent;
+    transition: var(--transition);
+    
+}
+
+.about_.about__description {
+    border-color: var(--color-primary-variant);
+    background: transparent;
+    
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 0.5rem;
+    color: var(--color-light);
+}
+
+/* .a_tooltip {
+    display: block;
+    color: var(--color-light);
+    
+}
+
+.a_tooltip[title] {
+    position: relative;
+    text-decoration: none;
+}
+
+.a_tooltip[title]:hover::after {
+    content: attr(title);
+    display: block;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, 10px);
+    padding: 5px;
+    background-color: #ccc;
+    color: #000;
+    font-size: 17px;
+    border-radius: 5px;
+    z-index: 999;
+    pointer-events: none;
+    width: 500px;
+}
+
+ */
+
+
+
+
+ .about__me {
+     width: 60%;
+     margin: 3rem 10rem 2rem;
+     border-radius: 45%;
+     
+ }
+
+/* ==================Media Queries (Meduim Devices)==================*/
+@media screen and (max-width:1500px) {
+   
+        
+        
+}
+
+
+@media screen and (max-width:1024px) {
+   
+
+
+
+}
+
+/* ==================Media Queries (Small Devices)==================*/
+@media screen and (max-width:600px) {
+main.row{
+    grid-template-columns: 1fr;
+}
+
+.row .col:nth-child(2){
+    margin-top: 30px;
+}
+       
+}

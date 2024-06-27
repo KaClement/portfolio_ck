@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="589.64496"
+   height="400.58389"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="fstree_disks.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.54520281"
+     inkscape:cx="111.79742"
+     inkscape:cy="188.71014"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3053"
+     showgrid="false"
+     inkscape:window-width="1317"
+     inkscape:window-height="744"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-238.10504,-499.13246)">
+    <g
+       id="g3033"
+       transform="translate(-517.23871,159.57365)">
+      <g
+         id="g3863">
+        <path
+           inkscape:connector-curvature="0"
+           style="color:#000000;fill:#b2f38e;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 1007.25,274.59375 -251.40625,0 0,107.34375 c 0,27.39115 22.04635,49.4375 49.4375,49.4375 l 152.53125,0 c 27.39115,0 49.4375,-22.04635 49.4375,-49.4375 l 0,-107.34375 z"
+           id="path3798"
+           transform="translate(0,308.2677)" />
+        <path
+           inkscape:connector-curvature="0"
+           style="color:#000000;fill:#8e96f3;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 1007.25,177.3125 -251.40625,0 0,97.28125 251.40625,0 0,-97.28125 z"
+           id="path3796"
+           transform="translate(0,308.2677)" />
+        <path
+           inkscape:connector-curvature="0"
+           style="color:#000000;fill:#f3ac8e;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           d="m 805.28125,81.375 c -27.39115,0 -49.4375,22.04635 -49.4375,49.4375 l 0,46.5 251.40625,0 0,-46.5 c 0,-27.39115 -22.04635,-49.4375 -49.4375,-49.4375 l -152.53125,0 z"
+           id="rect2985"
+           transform="translate(0,308.2677)" />
+        <text
+           xml:space="preserve"
+           style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="778.43469"
+           y="427.71179"
+           id="text2996"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan2998"
+             x="778.43469"
+             y="427.71179"
+             style="font-weight:bold;-inkscape-font-specification:Sans Bold">Partition 1: </tspan><tspan
+             sodipodi:role="line"
+             x="778.43469"
+             y="447.71179"
+             style="font-weight:normal;-inkscape-font-specification:Sans"
+             id="tspan3008">Système Linux</tspan><tspan
+             sodipodi:role="line"
+             x="778.43469"
+             y="467.71179"
+             style="font-weight:normal;-inkscape-font-specification:Sans"
+             id="tspan3784">(ext4)</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3000"
+           y="506.06262"
+           x="778.02063"
+           style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+             y="506.06262"
+             x="778.02063"
+             id="tspan3002"
+             sodipodi:role="line">Partition 2: </tspan><tspan
+             style="font-weight:normal;-inkscape-font-specification:Sans"
+             y="526.06262"
+             x="778.02063"
+             sodipodi:role="line"
+             id="tspan3010">Données utilisateurs</tspan><tspan
+             style="font-weight:normal;-inkscape-font-specification:Sans"
+             y="546.06262"
+             x="778.02063"
+             sodipodi:role="line"
+             id="tspan3786">(ext4)</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:16px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+           x="779.36438"
+           y="604.06262"
+           id="text3004"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3006"
+             x="779.36438"
+             y="604.06262"
+             style="font-weight:bold;-inkscape-font-specification:Sans Bold">Partition 3:</tspan><tspan
+             sodipodi:role="line"
+             x="779.36438"
+             y="624.06262"
+             style="font-weight:normal;-inkscape-font-specification:Sans"
+             id="tspan3012">Vidéos, Photos, Musique</tspan><tspan
+             sodipodi:role="line"
+             x="779.36438"
+             y="644.06262"
+             style="font-weight:normal;-inkscape-font-specification:Sans"
+             id="tspan3788">(xfs)</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3855"
+         y="363.87131"
+         x="802.45312"
+         style="font-size:32px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:floralwhite;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="363.87131"
+           x="802.45312"
+           id="tspan3857"
+           sodipodi:role="line">Disque 1</tspan></text>
+    </g>
+    <g
+       id="g3053"
+       transform="translate(-180,-256.61931)">
+      <g
+         id="g3880">
+        <path
+           id="path3825"
+           d="m 1007.25,930.19139 -251.40625,0 0,59.08428 c 0,15.07673 22.04635,27.21143 49.4375,27.21143 l 152.53125,0 c 27.39115,0 49.4375,-12.1347 49.4375,-27.21143 l 0,-59.08428 z"
+           style="color:#000000;fill:#eff38e;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3829"
+           d="m 805.28125,803.6427 c -27.39115,0 -49.4375,29.01618 -49.4375,65.06689 l 0,61.20071 251.40625,0 0,-61.20071 c 0,-36.05071 -22.04635,-65.06689 -49.4375,-65.06689 l -152.53125,0 z"
+           style="color:#000000;fill:#d38ef3;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           inkscape:connector-curvature="0" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text3831"
+           y="841.71179"
+           x="778.43469"
+           style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+             y="841.71179"
+             x="778.43469"
+             id="tspan3833"
+             sodipodi:role="line">Partition 1: </tspan><tspan
+             id="tspan3835"
+             style="font-weight:normal;-inkscape-font-specification:Sans"
+             y="861.71179"
+             x="778.43469"
+             sodipodi:role="line">Système Windows</tspan><tspan
+             id="tspan3837"
+             style="font-weight:normal;-inkscape-font-specification:Sans"
+             y="881.71179"
+             x="778.43469"
+             sodipodi:role="line">(ntfs)</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3847"
+           y="952.06262"
+           x="779.36438"
+           style="font-size:16px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+           xml:space="preserve"><tspan
+             style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+             y="952.06262"
+             x="779.36438"
+             id="tspan3849"
+             sodipodi:role="line">Partition 2:</tspan><tspan
+             id="tspan3851"
+             style="font-weight:normal;-inkscape-font-specification:Sans"
+             y="972.06262"
+             x="779.36438"
+             sodipodi:role="line">Données utilisateurs</tspan><tspan
+             id="tspan3853"
+             style="font-weight:normal;-inkscape-font-specification:Sans"
+             y="992.06262"
+             x="779.36438"
+             sodipodi:role="line">(ntfs)</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3859"
+         y="780.06427"
+         x="802.74219"
+         style="font-size:32px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:floralwhite;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="780.06427"
+           x="802.74219"
+           id="tspan3861"
+           sodipodi:role="line">Disque 2</tspan></text>
+    </g>
+  </g>
+</svg>
