@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/clement.github.io/static/css/main.bed229ff.css",
-    "main.js": "/clement.github.io/static/js/main.cc5c923f.js",
+    "main.css": "/clement.github.io/static/css/main.9d7f0e00.css",
+    "main.js": "/clement.github.io/static/js/main.c7e5a4c0.js",
     "static/media/HTB Academy Student Transcript.pdf": "/clement.github.io/static/media/HTB Academy Student Transcript.41f62a6050bfaeb1148e.pdf",
     "static/media/swiss.jpg": "/clement.github.io/static/media/swiss.d56768b7f0bca5f9cd97.jpg",
     "static/media/portfolio5.png": "/clement.github.io/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
@@ -13,11 +13,11 @@
     "static/media/cv.pdf": "/clement.github.io/static/media/cv.44f1dd59686590b5d2ad.pdf",
     "static/media/portfolio4.jpg": "/clement.github.io/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/clement.github.io/index.html",
-    "main.bed229ff.css.map": "/clement.github.io/static/css/main.bed229ff.css.map",
-    "main.cc5c923f.js.map": "/clement.github.io/static/js/main.cc5c923f.js.map"
+    "main.9d7f0e00.css.map": "/clement.github.io/static/css/main.9d7f0e00.css.map",
+    "main.c7e5a4c0.js.map": "/clement.github.io/static/js/main.c7e5a4c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.bed229ff.css",
-    "static/js/main.cc5c923f.js"
+    "static/css/main.9d7f0e00.css",
+    "static/js/main.c7e5a4c0.js"
   ]
 }
