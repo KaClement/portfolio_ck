@@ -4,20 +4,26 @@ import './technology.css'
 
 
 import html from '../../assets/html.png'
-import boot from '../../assets/bootstrap-img.png'
 import cssLogo from '../../assets/css-logo.png'
 import reactimg from '../../assets/react-img.png'
-import java from '../../assets/java-img.png'
 import py from '../../assets/python-img.png'
 import node from '../../assets/node.png'
 import azure from '../../assets/azure.png'
-
-
+import c_logo from '../../assets/c-logo.png'
+import git from '../../assets/git-logo.png'
+import js from '../../assets/js-logo.png'
+import mongoDB from '../../assets/mongoDB-logo.png'
+import mysql_logo from '../../assets/mysql-logo.png'
+import scikit_logo from '../../assets/scikit-learn-logo.jpg'
 
 const Technology = () =>{
 
     const [images, setImages] = useState([
-        html, boot, cssLogo, reactimg, java, py, node, azure, html, boot, cssLogo, reactimg, java, py, node, azure, html, boot, cssLogo, reactimg, java, py, node, azure, html, boot, cssLogo, reactimg, java, py, node, azure, html, boot, cssLogo, reactimg, java, py, node
+        py, node, azure, html, cssLogo, reactimg, c_logo, git, js, mongoDB, mysql_logo,
+        py, node, azure, html, cssLogo, reactimg, c_logo, git, js, mongoDB, mysql_logo, 
+        py, node, azure, html, cssLogo, reactimg, c_logo, git, js, mongoDB, mysql_logo, 
+        py, node, azure, html, cssLogo, reactimg, c_logo, git, js, mongoDB, mysql_logo, 
+        
     ]);
 
     const [currentIndex, setCurrentIndex] = useState(0);
@@ -60,10 +66,10 @@ const Technology = () =>{
                         </div>
                     ))}
                 </div>
-                {/* <div className='btn-div'>
-                    {/* <button className='btn-class' onClick={prevImage}> &lt;</button>
+                {/* { <div className='btn-div'>
+                    <button className='btn-class' onClick={prevImage}> &lt;</button>
                     <button className='btn-class' onClick={nextImage}>&gt;</button> 
-                </div> */}
+                </div> } */}
             </div>
 
             

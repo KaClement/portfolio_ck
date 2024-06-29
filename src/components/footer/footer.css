@@ -1,12 +1,14 @@
 footer{
-    background: var(--color-primary);
+    background: #f4f0f0;
     text-align: center;
-    padding: 3rem 0;
+    padding-bottom: 0.1rem;
+    margin-bottom: 0px;
     font: 0.9rem;
     margin-top: 7rem;
+
 }
 footer a{
-    color: var(--color-bg);
+    color: black;
 }
 
 
@@ -23,22 +25,25 @@ footer a{
     justify-content: center;
     gap: 1rem;
     margin-bottom: 1rem;
-    background: var(--color-bg);
-    color: var(--color-white);
+    background: cornflowerblue;
+    color: black;
     padding: 0.8rem;
     border-radius: 0.7rem;
     display: flex;
     border: 1px solid transparent;
 }
+.a_footer:hover{
+    color: black;
 
+}
 .footer__socials:hover{
     background: transparent;
-    color: var(--color-bg);
+    color: black;
     border-color: var(--color-bg);
 }
 .footer__copyright{
-    margin-bottom: 4rem;
-    color: var(--color-bg);
+    margin-bottom: 2rem;
+    color: black;
 }
 
 /* ==================Media Queries (Small Devices)==================*/

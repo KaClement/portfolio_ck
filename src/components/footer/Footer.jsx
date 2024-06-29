@@ -7,16 +7,16 @@ const footer = () => {
     <footer>
      
       <ul className='permalinks'>
-        <li><a href="#">Home</a></li>
-        <li><a href="#about">About</a></li>
-        <li><a className='footer__socials' href="https://Github.com"><BsGithub /></a></li>
-        <li><a href="#portfolio">Portfolio</a></li>
-        <li><a href="#contact">Contact</a></li>
+        <li><a className='a_footer' href="#">Home</a></li>
+        <li><a className='a_footer' href="#about">About</a></li>
+        <li><a className='footer__socials' href="https://github.com/KaClement"><BsGithub /></a></li>
+        <li><a className='a_footer' href="#portfolio">Portfolio</a></li>
+        <li><a className='a_footer' href="#contact">Contact</a></li>
       </ul>
 
 
       <div className="footer__copyright">
-        <small>&copy; Clément Kacel. All rights reserved</small>
+        <small>&copy; Made with React, by Clément Kacel. All rights reserved</small>
       </div>
      
     </footer>

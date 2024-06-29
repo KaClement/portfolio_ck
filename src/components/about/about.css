@@ -2,7 +2,8 @@
 #about{
    color: black;
     margin-top: 0px;
-    
+    padding: 0;
+    margin-bottom: 100px;
 }
 
 .about__container{
@@ -10,8 +11,9 @@
     display: flex;
     justify-content: center;
     width:100%;
-    min-height: 100vh;
+    min-height: 85vh;
     padding-right: calc(10%-30px);
+
 }
 
 main.row{
@@ -24,7 +26,7 @@ main.row{
 }
 .col header.title{
     font-family: Helvetica;
-    color: #11a372;
+    color: cornflowerblue;
     padding: 0px 0px 20px 30px;
 }
 .col .contents{
@@ -56,13 +58,13 @@ main.row{
     border-radius: 50%;
     right: calc(100% + 22px);
     top: 0;
-    background-color: #11a372;
+    background-color: #444;
     border: 2px solid white;
 }
 
 .box h4{
     position: relative;
-    color: #11a372;
+    color: cornflowerblue;
 
 }
 
@@ -70,20 +72,21 @@ main.row{
     font-size: 19px;
     font-family: helvetica;
     padding: 10px 0px 6px;
-    color: #444;
+    color: black;
 }
 
 .box p{
     line-height: 1.2;
-    color: #666;
+    color: #444;
     font-size: 17px;
+    font-weight: 100;
 }
 
 
 .about__description{
 
-    background: var(--color-bg-variant);
-    padding: 1.3rem;
+    background: white;
+    padding: 0;
     border-radius: 2rem;
     border: 1px solid transparent;
     transition: var(--transition);
@@ -91,7 +94,7 @@ main.row{
 }
 
 .about_.about__description {
-    border-color: var(--color-primary-variant);
+    border-color: white;
     background: transparent;
     
 }
@@ -107,7 +110,7 @@ li {
     display: inline-block;
     margin-right: 10px;
     margin-top: 0.5rem;
-    color: var(--color-light);
+    color: #444;
 }
 
 /* .a_tooltip {
@@ -147,7 +150,7 @@ li {
      width: 60%;
      margin: 3rem 10rem 2rem;
      border-radius: 45%;
-     
+    
  }
 
 /* ==================Media Queries (Meduim Devices)==================*/

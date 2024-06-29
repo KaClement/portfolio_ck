@@ -14,49 +14,33 @@ header{
 }
 
 .navbar {
-    width: 85%;
-    margin: auto;
-    margin-left: 65%;
-    padding: 75px 0;
+    width: 100%; /* Full width to use the entire space */
     display: flex;
-    align-items:center;
-    justify-content: space-between;
+    justify-content: center;
+    text-align: center;
+    
+    padding: 30px 0; /* Padding for vertical space */
+    background-color: rgba(0, 0, 0, 0); /* Semi-transparent background to stand out */
+    z-index: 1000; /* Ensure the navbar is on top */
+}
 
+.navbar ul {
+    list-style: none; /* Remove default list styles */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+   /* Flexbox for horizontal layout */
+   
 }
 
 .navbar ul li {
-    
-    list-style: none;
-    display: inline-block;
-    margin: 0 20px;
-    
-    position: relative;
+    margin: 0 30px; /* Space between navbar items */
 }
 
 .navbar ul li a {
-    text-decoration: none;
-    color: #fff;
-    text-transform: uppercase;
-    
+    text-decoration: none; /* Remove underline from links */
+    color: #fff; /* White text color */
+    text-transform: uppercase; /* Uppercase text */
 }
-
-.navbar ul li::after {
-    content: "";
-    height: 3px;
-    width: 0;
-    background: #F2DEBA;
-    position: absolute;
-    left: 0;
-    bottom: -10px;
-    transition: 0.5s;
-}
-
-.navbar ul li:hover::after {
-    width: 100%;
-    
-}
-
-
 
 .content {
     width: 100%;
@@ -69,7 +53,7 @@ header{
 
 .content h1 {
     font-size: 70px;
-    margin-top: 80px;
+    margin-top: 60px;
 }
 
 
@@ -111,7 +95,7 @@ header{
 
 
 .cover {
-    background: #222831;
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background to stand out */
     height: 100%;
     width: 0%;
     border-radius: 25px;
@@ -141,89 +125,38 @@ button:hover {
 
 /* ==================Media Queries (Medium Devices)==================*/
 @media screen and (max-width:1660px) {
-    header {
-        height:100vh;
-        background-repeat: repeat;
-            background-size: cover;
-    }
-    .navbar ul li {
-        display: inline;
-        margin: 0 5px;
-    }
-
-        .navbar ul li::after{
-            content: "";
-            height: 0px;
-            width: 0;
-            background: #F2DEBA;
-            position: absolute;
-            left: 0;
-            bottom: -10px;
-            transition: 0.5s;
-        }
-        
-
-
+    
 }
 
 /* ==================Media Queries (Medium Devices)==================*/
 @media screen and (max-width:1250px) {
-    header {
-        height: 100vh;
-        background-repeat: repeat;
-        background-size: cover;
-    }
-
-    .navbar ul li {
-        display: inline-block;
-        margin: 0 5px;
-        grid-template-columns: 1fr 1fr;
-    }
-
-    .navbar ul li::after {
-        content: "";
-        height: 0px;
-        width: 0;
-        background: #F2DEBA;
-        position: absolute;
-        left: 0;
-        bottom: -10px;
-        transition: 0.5s;
-    }
-    .navbar{
-        margin-left: 30%;
-    }
-
+  
 
 
 }
 
 /* ==================Media Queries (Small Devices)==================*/
 @media screen and (max-width:600px) {
-    header {
-        height: 100vh;
-        background-repeat: no-repeat;
-        background-size: cover;
-    }
-        .navbar ul li {
-            display: grid;
-            grid-template-columns: 1fr;
-            
-        }
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+      }
     
-   
- .navbar ul li::after {
-     content: "";
-     height: 0px;
-     width: 0;
-     background: #F2DEBA;
-     position: absolute;
-     left: 0;
-     bottom: -10px;
-     transition: 0.5s;
- }
- .navbar {
-     margin-left: 38%;
- }
-
+      .nav-links {
+        margin-top: 20px;
+        flex-direction: column;
+        align-items: flex-start;
+      }
+    
+      .nav-links li {
+        margin-right: 0;
+        margin-bottom: 10px;
+        width: 100%;
+      }
+    
+      .nav-buttons {
+        margin-top: 20px;
+      }
 }
+
+ 
