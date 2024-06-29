@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio.github.io/static/css/main.326e2c57.css",
-    "main.js": "/portfolio.github.io/static/js/main.54113e5f.js",
+    "main.js": "/portfolio.github.io/static/js/main.48bea7fd.js",
     "static/media/movie_wall.jpg": "/portfolio.github.io/static/media/movie_wall.1a89ec3dfca081fa02b9.jpg",
-    "static/media/HTB Academy Student Transcript.pdf": "/portfolio.github.io/static/media/HTB Academy Student Transcript.41f62a6050bfaeb1148e.pdf",
     "static/media/swiss.jpg": "/portfolio.github.io/static/media/swiss.d56768b7f0bca5f9cd97.jpg",
     "static/media/portfolio5.png": "/portfolio.github.io/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
     "static/media/energy.png": "/portfolio.github.io/static/media/energy.56e6dcf3738073b4f213.png",
@@ -18,10 +17,10 @@
     "static/media/js-logo.png": "/portfolio.github.io/static/media/js-logo.266bd9fb2663dcc057b4.png",
     "index.html": "/portfolio.github.io/index.html",
     "main.326e2c57.css.map": "/portfolio.github.io/static/css/main.326e2c57.css.map",
-    "main.54113e5f.js.map": "/portfolio.github.io/static/js/main.54113e5f.js.map"
+    "main.48bea7fd.js.map": "/portfolio.github.io/static/js/main.48bea7fd.js.map"
   },
   "entrypoints": [
     "static/css/main.326e2c57.css",
-    "static/js/main.54113e5f.js"
+    "static/js/main.48bea7fd.js"
   ]
 }
