@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio.github.io/static/css/main.00acb0d7.css",
-    "main.js": "/portfolio.github.io/static/js/main.52a40cb3.js",
+    "main.css": "/portfolio.github.io/static/css/main.326e2c57.css",
+    "main.js": "/portfolio.github.io/static/js/main.88a1c1dc.js",
     "static/media/HTB Academy Student Transcript.pdf": "/portfolio.github.io/static/media/HTB Academy Student Transcript.41f62a6050bfaeb1148e.pdf",
     "static/media/swiss.jpg": "/portfolio.github.io/static/media/swiss.d56768b7f0bca5f9cd97.jpg",
     "static/media/portfolio5.png": "/portfolio.github.io/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
@@ -17,11 +17,11 @@
     "static/media/scikit-learn-logo.jpg": "/portfolio.github.io/static/media/scikit-learn-logo.36c1ca37dcefb576bcef.jpg",
     "static/media/js-logo.png": "/portfolio.github.io/static/media/js-logo.266bd9fb2663dcc057b4.png",
     "index.html": "/portfolio.github.io/index.html",
-    "main.00acb0d7.css.map": "/portfolio.github.io/static/css/main.00acb0d7.css.map",
-    "main.52a40cb3.js.map": "/portfolio.github.io/static/js/main.52a40cb3.js.map"
+    "main.326e2c57.css.map": "/portfolio.github.io/static/css/main.326e2c57.css.map",
+    "main.88a1c1dc.js.map": "/portfolio.github.io/static/js/main.88a1c1dc.js.map"
   },
   "entrypoints": [
-    "static/css/main.00acb0d7.css",
-    "static/js/main.52a40cb3.js"
+    "static/css/main.326e2c57.css",
+    "static/js/main.88a1c1dc.js"
   ]
 }
