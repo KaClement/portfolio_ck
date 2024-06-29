@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/portfolio.github.io/static/css/main.326e2c57.css",
-    "main.js": "/portfolio.github.io/static/js/main.88a1c1dc.js",
+    "main.js": "/portfolio.github.io/static/js/main.fa697b26.js",
+    "static/media/movie_wall.jpg": "/portfolio.github.io/static/media/movie_wall.1a89ec3dfca081fa02b9.jpg",
     "static/media/HTB Academy Student Transcript.pdf": "/portfolio.github.io/static/media/HTB Academy Student Transcript.41f62a6050bfaeb1148e.pdf",
     "static/media/swiss.jpg": "/portfolio.github.io/static/media/swiss.d56768b7f0bca5f9cd97.jpg",
     "static/media/portfolio5.png": "/portfolio.github.io/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/portfolio2.jpg": "/portfolio.github.io/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
     "static/media/portfolio6.jpg": "/portfolio.github.io/static/media/portfolio6.72d1107e313049cf15a7.jpg",
     "static/media/portfolio1.jpg": "/portfolio.github.io/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
     "static/media/git-logo.png": "/portfolio.github.io/static/media/git-logo.8dd3688bb1415872d423.png",
@@ -18,10 +18,10 @@
     "static/media/js-logo.png": "/portfolio.github.io/static/media/js-logo.266bd9fb2663dcc057b4.png",
     "index.html": "/portfolio.github.io/index.html",
     "main.326e2c57.css.map": "/portfolio.github.io/static/css/main.326e2c57.css.map",
-    "main.88a1c1dc.js.map": "/portfolio.github.io/static/js/main.88a1c1dc.js.map"
+    "main.fa697b26.js.map": "/portfolio.github.io/static/js/main.fa697b26.js.map"
   },
   "entrypoints": [
     "static/css/main.326e2c57.css",
-    "static/js/main.88a1c1dc.js"
+    "static/js/main.fa697b26.js"
   ]
 }
