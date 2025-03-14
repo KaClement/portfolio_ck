@@ -1,6 +1,5 @@
 import React from 'react'
 import './challenges.css'
-import Transcript from '../../assets/HTB Academy Student Transcript.pdf'
 const Challenges = () => {
     return ( 
 <section className='challenges__section' id='skills'>

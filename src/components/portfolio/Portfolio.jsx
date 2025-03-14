@@ -3,10 +3,7 @@ import './portfolio.css'
 import IMG1 from '../../assets/energy.png'
 import IMG2 from '../../assets/movie_wall.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
-import { RiLineLine } from 'react-icons/ri'
+
 
 const Portfolio = () => {
   return (
@@ -46,11 +43,11 @@ const Portfolio = () => {
            
           </div>
         </article>
-        <article className='portfolio__item'>
+        {/* <article className='portfolio__item'>
           <div className="portfolio__item-image">
             <img src={IMG3} alt="" />
           </div>
-          <h3>ExoPlanet Classification</h3>
+          <h3>Serious Game : Calculus for Kids</h3>
           <ul>
             <li className='li_item'>🐍 Python and Flask</li>
             <li className='li_item'>🔗 Integrated IMDB API and MariaDB for data handling</li>
@@ -61,7 +58,76 @@ const Portfolio = () => {
             <a href="https://youtube.com" className='btn'>Demo</a>
             
           </div>
-        </article>
+        </article> */}
+
+    {/* <article className='portfolio__item'>
+          <div className="portfolio__item-image">
+            <img src={IMG3} alt="" />
+          </div>
+          <h3>Projet de recherche en bachelor : Classification puis génération personnalisé de feedback pour des codings assignement</h3>
+          <ul>
+            <li className='li_item'>🐍 Python and Flask</li>
+            <li className='li_item'>🔗 Integrated IMDB API and MariaDB for data handling</li>
+            <li className='li_item'>🧠 Content-based and User-based recommendations</li>
+          </ul>
+          <div className='portfolio__item-cta'>
+            <a href="https://github.com" className='btn'>GitHub</a>
+            <a href="https://youtube.com" className='btn'>Demo</a>
+            
+          </div>
+      </article> */} 
+
+    {/* <article className='portfolio__item'>
+          <div className="portfolio__item-image">
+            <img src={IMG3} alt="" />
+          </div>
+          <h3>Projet de recherche en Master : AI, LLM, GraphRag and recommendation of relevant research article and data</h3>
+          <ul>
+            <li className='li_item'>🐍 Python and Flask</li>
+            <li className='li_item'>🔗 Integrated IMDB API and MariaDB for data handling</li>
+            <li className='li_item'>🧠 Content-based and User-based recommendations</li>
+          </ul>
+          <div className='portfolio__item-cta'>
+            <a href="https://github.com" className='btn'>GitHub</a>
+            <a href="https://youtube.com" className='btn'>Demo</a>
+            
+          </div>
+      </article> */} 
+
+ {/* <article className='portfolio__item'>
+          <div className="portfolio__item-image">
+            <img src={IMG3} alt="" />
+          </div>
+          <h3>Research Breakthrough Prediciton : for CERN Quantum Institue </h3>
+          <ul>
+            <li className='li_item'>🐍 Python and Flask</li>
+            <li className='li_item'>🔗 Integrated IMDB API and MariaDB for data handling</li>
+            <li className='li_item'>🧠 Content-based and User-based recommendations</li>
+          </ul>
+          <div className='portfolio__item-cta'>
+            <a href="https://github.com" className='btn'>GitHub</a>
+            <a href="https://youtube.com" className='btn'>Demo</a>
+            
+          </div>
+        </article> */}
+
+                {/* <article className='portfolio__item'>
+          <div className="portfolio__item-image">
+            <img src={IMG3} alt="" />
+          </div>
+          <h3>Serious Game : WeightQuest (Hackathons)</h3>
+          <ul>
+            <li className='li_item'>🐍 Python and Flask</li>
+            <li className='li_item'>🔗 Integrated IMDB API and MariaDB for data handling</li>
+            <li className='li_item'>🧠 Content-based and User-based recommendations</li>
+          </ul>
+          <div className='portfolio__item-cta'>
+            <a href="https://github.com" className='btn'>GitHub</a>
+            <a href="https://youtube.com" className='btn'>Demo</a>
+            
+          </div>
+        </article> */}
+
       
       </div>
     </section>

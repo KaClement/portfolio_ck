@@ -4,6 +4,8 @@ header{
     overflow: hidden;
     margin: 0;
     padding: 0;
+    font-family: 'Segoe UI', sans-serif; /* Windows 11 font */
+
 }
 .banner {
     width: 100%;
@@ -42,6 +44,10 @@ header{
     text-transform: uppercase; /* Uppercase text */
 }
 
+.navbar ul li a:hover {
+    transition: 0.5s;
+    color: #F2DEBA;
+}
 .content {
     width: 100%;
     position: absolute;
@@ -85,7 +91,7 @@ header{
     margin: 20px 10px;
     border-radius: 25px;
     font-weight: bold;
-    border: 2px solid white;
+    border: 2px solid #F2DEBA;;
     background: transparent;
     color: white;
     cursor: pointer;
