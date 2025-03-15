@@ -13,10 +13,9 @@ const Header = () => {
       <div class="banner">
         <div class="navbar">
             <ul>
+            <li><a href="#myinfo">About me</a></li>
               <li><a href="#about">Experience</a></li>
               <li><a href="#portfolio">Projects</a></li>
-              <li><a href="#technology">Skills</a></li>
-              <li><a href="#myinfo">About me</a></li>
               {/* <li><a href="#contact">Contact Me</a></li> */}
             </ul>
         </div>

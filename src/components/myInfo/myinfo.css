@@ -34,32 +34,69 @@
         padding: 20px;
         background: rgba(255, 255, 255, 0.8); /* Light frosted glass effect */
         backdrop-filter: blur(10px); /* Adds blur for frosted glass */
-        text-align: left;
+        text-align: center;
     }
     
     .skills-container {
         display: flex;
         flex-wrap: wrap;
-        gap: 10px; /* Space between tags */
-        margin-bottom: 20px; /* Space below the skills section */
+        gap: 2px;
+        margin-bottom: 40px;
+        justify-content: center;
+        text-align: center;
     }
-    
+    .database {
+        border: 1px inset black;
+    }
+
+    .language {
+        border: 1px solid black;
+    }
+    .framework {
+        border: 1px solid black;
+    }
+    .librairies {
+        border: 1px solid black;
+    }
+    .tools {
+        border: 1px solid black;
+    }
+
     .skill-tag {
-        background-color: #0078d4; /* Windows blue */
-        color: #ffffff; /* White text */
+        display: flex;
+        align-items: center;
+        justify-content: center;
         padding: 8px 12px;
-        border-radius: 6px; /* Rounded corners */
+        border-radius: 6px;
         font-size: 14px;
         font-weight: 500;
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         transition: background-color 0.3s ease;
+        position: relative;
+        margin-bottom : 20px;
     }
     
-    .skill-tag:hover {
-        background-color: #005a9e; /* Darker blue on hover */
-    }
     .skill-logo {
-        width: 20px; /* Adjust logo size */
+        width: 20px;
         height: 20px;
-        margin-right: 8px; /* Space between logo and text */
+        margin-right: 5px;
+        
+    }
+    
+    .skill-name {
+        display: none; /* Hide text by default */
+        position: absolute;
+        top: 100%; /* Position below the logo */
+        left: 50%;
+        transform: translateX(-50%);
+        background-color: rgba(0, 0, 0, 0.8);
+        color: white;
+        padding: 4px 8px;
+        border-radius: 4px;
+        font-size: 12px;
+        white-space: nowrap;
+    }
+    
+    .skill-tag:hover .skill-name {
+        display: block; /* Show text on hover */
     }

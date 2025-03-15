@@ -23,10 +23,10 @@ const App = () => {
     
     <Portfolio/>
 
-
+{/* 
     <Technology/>
     <Challenges/>
-    <Technology/>
+    <Technology/> */}
 
 
     <Footer/>
