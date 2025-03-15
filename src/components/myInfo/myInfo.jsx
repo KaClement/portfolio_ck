@@ -125,6 +125,11 @@ const myInfo = () =>{
 
         </div>
     </div>
+
+    <div class="div-box">
+    <p>OOP, MVC , Event-driven Architecture | Game development | Design and Analysis of Algorithms | Machine Learning </p>
+
+    </div>
 </section>
     
 
