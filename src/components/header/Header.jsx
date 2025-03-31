@@ -1,7 +1,10 @@
 import React from 'react';
 import './header.css'
 import cv from './../../assets/cv.pdf';
-
+import resume_1 from './../../assets/file-regular.svg'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faFileAlt } from '@fortawesome/free-solid-svg-icons'; // Resume icon
+import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons'; // LinkedIn and GitHub icons
 
 
 
@@ -23,15 +26,34 @@ const Header = () => {
         <div class="content">
           <h1>Clément Kacel</h1>
           <h3>Software Engineer</h3>
-          <h6>Master Student at University of Geneva in Information Systems </h6>
+          <h6>Master of Information Systems at University of Geneva </h6>
           <div>
-            <button class="login-btn" type="button"><span class="cover"></span> <a rel="noopener noreferrer"href={cv} target='_blank'>Resume</a></button>
-            <button class="login-btn" type="button"><span class="cover"></span> <a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/clementka">LinkedIn</a></button>
-            <button class="login-btn" type="button"><span class="cover"></span> <a  target="_blank" rel="noopener noreferrer"href="https://github.com/KaClement">GitHub</a></button>
+              <a class="login-btn" href={cv} target="_blank" rel="noopener noreferrer">
+                  <span class="cover"></span>
+                 
+                  <FontAwesomeIcon icon={faFileAlt} className="icon" /> 
+                  <span className="resume-text">Resume</span> 
+                </a>
+
+              <a class="login-btn" href="https://linkedin.com/in/clementka" target="_blank" rel="noopener noreferrer">
+                  <span class="cover"></span>
+                  <FontAwesomeIcon icon={faLinkedin} className="icon" /> 
+                  <span className="resume-text">LinkedIn</span> 
+
+                  </a>
+
+                <a class="login-btn" href="https://github.com/KaClement" target="_blank" rel="noopener noreferrer">
+                  <span class="cover"></span>
+                  <FontAwesomeIcon icon={faGithub} className="icon" />
+                  <span className="resume-text">GitHub</span> 
+
+                  </a>
+
           </div>
-        </div>
       </div>
 
+
+      </div>
     </header>
   )
 }

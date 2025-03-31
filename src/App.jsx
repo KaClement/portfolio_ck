@@ -29,7 +29,7 @@ const App = () => {
     <Technology/> */}
 
 
-    <Footer/>
+    {/* <Footer/> */}
 
     </>
   )

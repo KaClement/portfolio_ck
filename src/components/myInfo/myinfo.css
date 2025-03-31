@@ -1,102 +1,127 @@
 
-    /* background-image: url('../../assets/bg_main_dark.jpg'); */
-    #myinfo {
-        background: linear-gradient(to bottom, #0078d4, #e6e6e6);
-        color: #1a1a1a;
-        font-family: 'Segoe UI', sans-serif; /* Windows 11 font */
-        padding: 40px 20px;
-        margin: 0;
-        text-align: center;
-    }
-    
-    .div-box {
-        margin: 10px;
-        text-align: center;
-    }
-    
-    .img-box {
-        border: 2px solid rgba(255, 255, 255, 0.5); /* Semi-transparent white border */
-        border-radius: 12px; /* Rounded corners */
-        overflow: hidden; /* Ensures the image respects the border radius */
-        background: rgba(255, 255, 255, 0.2); /* Light frosted glass effect */
-        backdrop-filter: blur(10px); /* Adds blur for frosted glass */
-    }
-    
-    .img-box img {
-        max-width: 100%;
-        height: auto;
-        display: block;
-    }
-    
-    .text-box {
-        border: 2px solid rgba(255, 255, 255, 0.5); /* Semi-transparent white border */
-        border-radius: 12px; /* Rounded corners */
-        padding: 20px;
-        background: rgba(255, 255, 255, 0.8); /* Light frosted glass effect */
-        backdrop-filter: blur(10px); /* Adds blur for frosted glass */
-        text-align: center;
-    }
-    
-    .skills-container {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 2px;
-        margin-bottom: 40px;
-        justify-content: center;
-        text-align: center;
-    }
-    .database {
-        border: 1px inset black;
-    }
+#myinfo {
+    /* background: url("../../assets/bg_main_dark.jpg"); */
+    background: linear-gradient(to bottom, #0D1B2A, #1B263B, #2C3E50);
 
-    .language {
-        border: 1px solid black;
-    }
-    .framework {
-        border: 1px solid black;
-    }
-    .librairies {
-        border: 1px solid black;
-    }
-    .tools {
-        border: 1px solid black;
-    }
+    color: #ffffff;
+    font-family: 'Segoe UI', sans-serif; /* Windows 11 font */
+    padding: 40px 20px;
+    margin: 0;
+    text-align: center;
+}
+.subtitle {
+    font-size: 16px; /* Subtle and readable */
+    color: #ffffff; /* White text for dark mode */
+    opacity: 0.9; /* Slightly transparent for a softer look */
+    display: flex; /* Align items horizontally */
+    align-items: center; /* Center items vertically */
+    gap: 8px; /* Add spacing between elements */
+    margin: 0; /* Remove default margin */
+    line-height: 1.5; /* Improve readability */
+    text-align: center;
+    justify-content: center;
+}
 
-    .skill-tag {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        padding: 8px 12px;
-        border-radius: 6px;
-        font-size: 14px;
-        font-weight: 500;
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        transition: background-color 0.3s ease;
-        position: relative;
-        margin-bottom : 20px;
-    }
-    
-    .skill-logo {
-        width: 20px;
-        height: 20px;
-        margin-right: 5px;
-        
-    }
-    
-    .skill-name {
-        display: none; /* Hide text by default */
-        position: absolute;
-        top: 100%; /* Position below the logo */
-        left: 50%;
-        transform: translateX(-50%);
-        background-color: rgba(0, 0, 0, 0.8);
-        color: white;
-        padding: 4px 8px;
-        border-radius: 4px;
-        font-size: 12px;
-        white-space: nowrap;
-    }
-    
-    .skill-tag:hover .skill-name {
-        display: block; /* Show text on hover */
-    }
+.separator {
+    opacity: 0.7;
+    font-size: 14px;
+}
+
+.div-box {
+    margin: 25px;
+    text-align: center;
+}
+
+
+.img-box {
+    /* border: 2px solid rgba(255, 255, 255, 0.1); Semi-transparent white border */
+    border-radius: 12px; /* Rounded corners */
+    overflow: hidden; /* Ensures the image respects the border radius */
+    /* backdrop-filter: blur(10px); Adds blur for frosted glass */
+    /* background: rgba(255, 255, 255, 0.05); Light frosted glass effect */
+}
+
+.img-box img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+}
+
+.text-box {
+    border-radius: 12px; /* Rounded corners */
+    padding: 5px;
+    /* background: rgba(255, 255, 255, 0.05); /* Light frosted glass effect */
+    /* backdrop-filter: blur(10px); Adds blur for frosted glass */ 
+    text-align: center;
+    justify-content: center;
+    display: block;
+    align-items: center;
+    margin-top: 5%;
+}
+
+.text-box-2 {
+    border-radius: 12px; /* Rounded corners */
+    padding: 40px;
+    /* background: rgba(255, 255, 255, 0.05); /* Light frosted glass effect */
+    /* backdrop-filter: blur(10px); Adds blur for frosted glass */ 
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px;
+    margin-bottom: 40px;
+    justify-content: center;
+    text-align: center;
+}
+
+.skill-tag {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 8px 12px;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: 500;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    position: relative;
+    margin-bottom: 20px;
+    color: #ffffff; /* White text for better contrast */
+}
+
+.skill-tag:hover {
+    background-color: rgba(255, 255, 255, 0.1); /* Light white overlay on hover */
+    transform: translateY(-2px); /* Slight lift on hover */
+    cursor: pointer;
+}
+
+.skill-logo {
+    width: 25px;
+    height: 25px;
+    margin-right: 3px;
+}
+
+.skill-name {
+    display: none; /* Hide text by default */
+    position: absolute;
+    top: 100%; /* Position below the logo */
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    white-space: nowrap;
+}
+
+.skill-tag:hover .skill-name {
+    display: block; /* Show text on hover */
+}
+

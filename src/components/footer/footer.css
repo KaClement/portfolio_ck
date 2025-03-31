@@ -1,49 +1,18 @@
 footer{
-    background: #f4f0f0;
+    background: url('../../assets/bg_main_dark.jpg');
     text-align: center;
     padding-bottom: 0.1rem;
     margin-bottom: 0px;
     font: 0.9rem;
-    margin-top: 7rem;
+    margin-top: 0%;
+    font-family: 'Segoe UI', sans-serif;
+    color: white;
 
 }
-footer a{
-    color: black;
-}
 
-
-
-.permalinks{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 2rem;
-    margin: 0 auto 0;
-}
-.footer__socials{
-    display: flex;
-    justify-content: center;
-    gap: 1rem;
-    margin-bottom: 1rem;
-    background: cornflowerblue;
-    color: black;
-    padding: 0.8rem;
-    border-radius: 0.7rem;
-    display: flex;
-    border: 1px solid transparent;
-}
-.a_footer:hover{
-    color: black;
-
-}
-.footer__socials:hover{
-    background: transparent;
-    color: black;
-    border-color: var(--color-bg);
-}
 .footer__copyright{
-    margin-bottom: 2rem;
-    color: black;
+    margin-bottom: 1rem;
+   
 }
 
 /* ==================Media Queries (Small Devices)==================*/
