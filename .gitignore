@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+# Ignore dependencies and build caches
+node_modules/
+.cache/
+build.zip
+dist.zip
