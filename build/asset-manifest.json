@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio.github.io/static/css/main.27b62950.css",
+    "main.js": "/portfolio.github.io/static/js/main.8d79884b.js",
+    "static/media/movie_wall.jpg": "/portfolio.github.io/static/media/movie_wall.1a89ec3dfca081fa02b9.jpg",
+    "static/media/swiss.jpg": "/portfolio.github.io/static/media/swiss.d56768b7f0bca5f9cd97.jpg",
+    "static/media/emoji_2.png": "/portfolio.github.io/static/media/emoji_2.d4a9c6f75239b500fe4d.png",
+    "static/media/energy.png": "/portfolio.github.io/static/media/energy.56e6dcf3738073b4f213.png",
+    "static/media/git-logo.png": "/portfolio.github.io/static/media/git-logo.8dd3688bb1415872d423.png",
+    "static/media/portfolio3.jpg": "/portfolio.github.io/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/cv.pdf": "/portfolio.github.io/static/media/cv.44f1dd59686590b5d2ad.pdf",
+    "static/media/bg_main_dark.jpg": "/portfolio.github.io/static/media/bg_main_dark.e29b911841329c5eb171.jpg",
+    "static/media/mysql-logo.png": "/portfolio.github.io/static/media/mysql-logo.f926799293f6ee1f0b0d.png",
+    "static/media/scikit-learn-logo.jpg": "/portfolio.github.io/static/media/scikit-learn-logo.36c1ca37dcefb576bcef.jpg",
+    "static/media/js-logo.png": "/portfolio.github.io/static/media/js-logo.266bd9fb2663dcc057b4.png",
+    "index.html": "/portfolio.github.io/index.html",
+    "static/media/file-regular.svg": "/portfolio.github.io/static/media/file-regular.3118692a7483dff56347b1aa864c573d.svg",
+    "main.27b62950.css.map": "/portfolio.github.io/static/css/main.27b62950.css.map",
+    "main.8d79884b.js.map": "/portfolio.github.io/static/js/main.8d79884b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27b62950.css",
+    "static/js/main.8d79884b.js"
+  ]
+}
