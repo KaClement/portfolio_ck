@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58583fb1.css",
+    "main.js": "/static/js/main.1151633c.js",
+    "static/media/movie_wall.jpg": "/static/media/movie_wall.1a89ec3dfca081fa02b9.jpg",
+    "static/media/swiss.jpg": "/static/media/swiss.d56768b7f0bca5f9cd97.jpg",
+    "static/media/emoji_2.png": "/static/media/emoji_2.d4a9c6f75239b500fe4d.png",
+    "static/media/energy.png": "/static/media/energy.56e6dcf3738073b4f213.png",
+    "static/media/git-logo.png": "/static/media/git-logo.8dd3688bb1415872d423.png",
+    "static/media/portfolio3.jpg": "/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/cv.pdf": "/static/media/cv.44f1dd59686590b5d2ad.pdf",
+    "static/media/bg_main_dark.jpg": "/static/media/bg_main_dark.e29b911841329c5eb171.jpg",
+    "static/media/mysql-logo.png": "/static/media/mysql-logo.f926799293f6ee1f0b0d.png",
+    "static/media/scikit-learn-logo.jpg": "/static/media/scikit-learn-logo.36c1ca37dcefb576bcef.jpg",
+    "static/media/js-logo.png": "/static/media/js-logo.266bd9fb2663dcc057b4.png",
+    "index.html": "/index.html",
+    "static/media/file-regular.svg": "/static/media/file-regular.3118692a7483dff56347b1aa864c573d.svg",
+    "main.58583fb1.css.map": "/static/css/main.58583fb1.css.map",
+    "main.1151633c.js.map": "/static/js/main.1151633c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58583fb1.css",
+    "static/js/main.1151633c.js"
+  ]
+}
