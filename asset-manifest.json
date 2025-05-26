@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.f75b85ac.css",
-    "main.js": "/static/js/main.80884122.js",
+    "main.js": "/static/js/main.f3795d42.js",
     "static/media/Mémoire_de_Bachelor_KACEL_Clément_SISS.pdf": "/static/media/Mémoire_de_Bachelor_KACEL_Clément_SISS.a49faa879a341dcfbd99.pdf",
     "static/media/movie_wall.jpg": "/static/media/movie_wall.1a89ec3dfca081fa02b9.jpg",
     "static/media/swiss.jpg": "/static/media/swiss.d56768b7f0bca5f9cd97.jpg",
-    "static/media/cv.pdf": "/static/media/cv.d282b7a5cad7585324ec.pdf",
+    "static/media/cv.pdf": "/static/media/cv.17f4ee1aecf7e7f16905.pdf",
     "static/media/energy.png": "/static/media/energy.56e6dcf3738073b4f213.png",
     "static/media/analyze_page.png": "/static/media/analyze_page.0440c537cabbe7e0d7a0.png",
     "static/media/git-logo.png": "/static/media/git-logo.8dd3688bb1415872d423.png",
@@ -18,10 +18,10 @@
     "index.html": "/index.html",
     "static/media/file-regular.svg": "/static/media/file-regular.3118692a7483dff56347b1aa864c573d.svg",
     "main.f75b85ac.css.map": "/static/css/main.f75b85ac.css.map",
-    "main.80884122.js.map": "/static/js/main.80884122.js.map"
+    "main.f3795d42.js.map": "/static/js/main.f3795d42.js.map"
   },
   "entrypoints": [
     "static/css/main.f75b85ac.css",
-    "static/js/main.80884122.js"
+    "static/js/main.f3795d42.js"
   ]
 }
