@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.99bb5217.css",
-    "main.js": "/static/js/main.60058b53.js",
+    "main.js": "/static/js/main.4b0320b3.js",
     "static/media/Mémoire_de_Bachelor_KACEL_Clément_SISS.pdf": "/static/media/Mémoire_de_Bachelor_KACEL_Clément_SISS.a49faa879a341dcfbd99.pdf",
     "static/media/movie_wall.jpg": "/static/media/movie_wall.1a89ec3dfca081fa02b9.jpg",
     "static/media/swiss.jpg": "/static/media/swiss.d56768b7f0bca5f9cd97.jpg",
@@ -21,10 +21,10 @@
     "index.html": "/index.html",
     "static/media/file-regular.svg": "/static/media/file-regular.3118692a7483dff56347b1aa864c573d.svg",
     "main.99bb5217.css.map": "/static/css/main.99bb5217.css.map",
-    "main.60058b53.js.map": "/static/js/main.60058b53.js.map"
+    "main.4b0320b3.js.map": "/static/js/main.4b0320b3.js.map"
   },
   "entrypoints": [
     "static/css/main.99bb5217.css",
-    "static/js/main.60058b53.js"
+    "static/js/main.4b0320b3.js"
   ]
 }
