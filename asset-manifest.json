@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.a4bf390a.css",
-    "main.js": "/static/js/main.4b0320b3.js",
+    "main.css": "/static/css/main.099591db.css",
+    "main.js": "/static/js/main.52727f57.js",
     "static/media/Mémoire_de_Bachelor_KACEL_Clément_SISS.pdf": "/static/media/Mémoire_de_Bachelor_KACEL_Clément_SISS.a49faa879a341dcfbd99.pdf",
     "static/media/movie_wall.jpg": "/static/media/movie_wall.1a89ec3dfca081fa02b9.jpg",
     "static/media/swiss.jpg": "/static/media/swiss.d56768b7f0bca5f9cd97.jpg",
     "static/media/hackathons_piuc.jpeg": "/static/media/hackathons_piuc.a68dd66223c237e61462.jpeg",
+    "static/media/swiss_ai_hachaktohns.jpg": "/static/media/swiss_ai_hachaktohns.fc9e468f3eb66aed9220.jpg",
     "static/media/cv.pdf": "/static/media/cv.5cb323a2bd7d0bed9bdc.pdf",
     "static/media/energy.png": "/static/media/energy.56e6dcf3738073b4f213.png",
     "static/media/analyze_page.png": "/static/media/analyze_page.0440c537cabbe7e0d7a0.png",
@@ -20,11 +21,11 @@
     "static/media/advanced_python.jpg": "/static/media/advanced_python.47d39104540769c23ce4.jpg",
     "index.html": "/index.html",
     "static/media/file-regular.svg": "/static/media/file-regular.3118692a7483dff56347b1aa864c573d.svg",
-    "main.a4bf390a.css.map": "/static/css/main.a4bf390a.css.map",
-    "main.4b0320b3.js.map": "/static/js/main.4b0320b3.js.map"
+    "main.099591db.css.map": "/static/css/main.099591db.css.map",
+    "main.52727f57.js.map": "/static/js/main.52727f57.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4bf390a.css",
-    "static/js/main.4b0320b3.js"
+    "static/css/main.099591db.css",
+    "static/js/main.52727f57.js"
   ]
 }
